@@ -15,7 +15,7 @@ class Hero extends Component {
     render() {
         return (
             <div>
-                <div className="hero jumbotron jumbotron-fluid" style={myStyle} >
+                <div className="jumbotron jumbotron-fluid" style={myStyle} >
                     <div className="container ">
                         <h2 className="display-4">Welcome to Help Center</h2>
                         <h3>We're here to help you</h3>

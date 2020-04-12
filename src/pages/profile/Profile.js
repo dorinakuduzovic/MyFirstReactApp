@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import './Profile.css';
 import image from '../components/images/profile.jpg';
 import Button from 'react-bootstrap/Button';
+import { Link } from 'react-router-dom';
 
 class Profile extends Component {
     render() {
@@ -20,7 +21,7 @@ class Profile extends Component {
                         </div>
 
                         <div className="button col-lg-3 col-md-3 col-12 align-self-top pr-lg-2 text-center">
-                            <Button variant="light" size="sm" href="/editProfile">Edit Profile</Button>
+                            <Button variant="light" size="sm"><Link to='/editProfile'>Edit Profile</Link></Button>
                         </div>
                     </div>
                 </div>
