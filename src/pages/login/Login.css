@@ -1,0 +1,18 @@
+input.error {
+  border: 1px solid #990D35;
+}
+
+.errorMessage {
+  color: #990D35;
+  font-size: 0.75em;
+}
+
+.createAccount a {
+color: black;
+}
+
+.bg-register{
+border-radius: .3em !important;
+box-shadow: 6px 8px 6px -6px black;
+background-color: #A3C6C4 !important;
+}

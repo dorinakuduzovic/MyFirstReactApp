@@ -1,0 +1,22 @@
+.twentyQuestions {
+background-color: #E0E7E9;
+border-radius: 3em 3em 0 0;
+box-shadow: 0 -8px 8px -8px #b6b6b6;
+}
+
+.questions {
+    background-color: #A3C6C4;
+    padding: .8em;
+    padding-bottom: 3px;
+    border-radius: .3em;
+    box-shadow: 2px 2px 2px  #b6b6b6;
+}
+
+.questions h4{
+color: black;
+}
+
+.iconss {
+    margin: 0 1em;
+    justify-content: space-between;
+}

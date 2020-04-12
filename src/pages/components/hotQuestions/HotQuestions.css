@@ -1,0 +1,21 @@
+.popularQuestions {
+    background-color: #E0E7E9;
+}
+
+.hotQuestions {
+    background-color: #D1AFD3;
+    padding: 1em;
+    border-radius: .3em;
+    box-shadow: 2px 2px 2px  #b6b6b6;
+    padding-bottom: 1px;
+}
+
+.hotQuestions h5{
+color: black;
+
+}
+
+.iconss {
+    margin: 0 .5em;
+    justify-content: space-between;
+}

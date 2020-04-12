@@ -1,0 +1,12 @@
+.form-group {
+    max-width: 50%;
+    margin-left: 25%;
+}
+
+.form-group input {
+    border-radius: .5em;
+}
+
+.askQuestion {
+    padding: 30px;
+}

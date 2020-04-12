@@ -1,0 +1,25 @@
+.footer {
+    background-color: #333745;
+  margin: 0% !important;
+}
+
+.logo {
+    font-weight: bold;
+}
+
+.social {
+    padding-bottom: 20px;
+}
+.social a {
+    margin: 0 1rem;
+   transition: transform 250ms;
+   display: inline-block;
+}
+
+.social a:hover {
+    transform: translate(-2px);
+}
+
+.footer {
+    margin: 0% !important;
+}
